@@ -10,6 +10,7 @@ title: 와인
 오늘의 교훈
 - 3만원 이하에 끼안티 안티노리가 판다면 쟁여두자
 
+![KakaoTalk_Photo_2023-04-12-23-59-21](https://user-images.githubusercontent.com/12179091/231498622-bb3cbc5b-87cb-482c-9faa-3284ddf32c9c.jpeg)
 
 ## 참조항목
 
