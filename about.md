@@ -12,10 +12,6 @@ title: 와인
 
 ![KakaoTalk_Photo_2023-04-12-23-59-21](https://user-images.githubusercontent.com/12179091/231498622-bb3cbc5b-87cb-482c-9faa-3284ddf32c9c.jpeg)
 
-## 참조항목
-
-Some fun facts about the setup of this project include:
-
-* [소프트웨어](https://terms.naver.com/entry.nhn?docId=1114228&ref=y)
-* [원시코드](https://terms.naver.com/entry.nhn?docId=1227904&ref=y)
-
+## white
+* Morey
+* Colin
