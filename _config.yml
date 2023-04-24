@@ -2,7 +2,7 @@
 title:               open1
 tagline:             'A Jekyll theme'
 description:         'A reserved <a href="#" target="_blank">Cindy</a> Made by <a href="#" target="_blank">@blackstrida</a>.'
-url:                 https://blackstrida.github.io/open1/
+url:                 https://blackstrida.github.io/bondwine/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              blackstrida
-  url:               https://blackstrida.github.io/open1/
+  url:               https://blackstrida.github.io/bondwine/
   email:             blackstrida@gmail.com
 
 # Gems
