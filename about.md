@@ -25,5 +25,5 @@ title: 와인
 * 3만원 이하에 끼안티 안티노리가 판다면 쟁여두자
 
 ## 구매
-* https://www.vitatra.de/product/category/754-755
-* https://weeklywine.co.kr/
+* [비타트라 독일](https://www.vitatra.de/product/category/754-755)
+* [weeklywine](https://weeklywine.co.kr/)
