@@ -1,19 +1,11 @@
 ---
 layout: post
-title: 서비스 소개
+title: 와인 구매
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+## 구매
+* [비타트라 독일](https://www.vitatra.de/product/category/754-755)
+* [weeklywine](https://weeklywine.co.kr/)
 
-### 소개합니다.
-
-
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
+## 셀러
+* 샵 마르네 , 아르떼비노

@@ -1,12 +1,5 @@
 ---
 layout: post
-title: What's Open?
+title: 그의 최근 핫한 구매목록
 ---
-post1번.
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
-
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+![KakaoTalk_Photo_2023-04-12-23-59-21](https://user-images.githubusercontent.com/12179091/231498622-bb3cbc5b-87cb-482c-9faa-3284ddf32c9c.jpeg)
