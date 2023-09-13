@@ -3,14 +3,14 @@ title:               Bond's wine
 tagline:             ''
 description:         'A reserved <a href="#" target="_blank">Cindy</a> Made by <a href="#" target="_blank">@blackstrida</a>.'
 url:                 https://blackstrida.github.io/bondwine
-baseurl:             ''
+baseurl:             '/bondwine/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              blackstrida
-  url:               https://blackstrida.github.io/bondwineß
+  url:               https://blackstrida.github.io/bondwine
   email:             blackstrida@gmail.com
 
 # Gems
