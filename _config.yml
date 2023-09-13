@@ -3,7 +3,7 @@ title:               Bond's wine
 tagline:             ''
 description:         'A reserved <a href="#" target="_blank">Cindy</a> Made by <a href="#" target="_blank">@blackstrida</a>.'
 url:                 https://blackstrida.github.io/bondwine
-baseurl:             '/bondwine/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
